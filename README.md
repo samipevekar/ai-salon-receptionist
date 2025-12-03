@@ -38,8 +38,8 @@ An AI-powered virtual receptionist for salons built with Next.js and OpenMic API
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd salon-receptionist-ai
+git clone https://github.com/samipevekar/ai-salon-receptionist.git
+cd ai-salon-receptionist
 
 # Install dependencies
 npm install
